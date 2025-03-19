@@ -1,6 +1,6 @@
 # Containers on Elastic Beanstalk
 
-This project demonstrates how to deploy containerized applications using Docker and AWS Elastic Beanstalk. It includes setting up a custom Nginx container image, troubleshooting common deployment issues, and leveraging Elastic Beanstalk for seamless cloud deployment.
+# This project demonstrates how to deploy containerized applications using Docker and AWS Elastic Beanstalk. It includes setting up a custom Nginx container image, troubleshooting common deployment issues, and leveraging Elastic Beanstalk for seamless cloud deployment.
 
 📌 Key Features:
 Dockerized Application: Built a custom Nginx container image with a custom index.html.
